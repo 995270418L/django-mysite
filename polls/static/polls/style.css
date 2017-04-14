@@ -1,0 +1,10 @@
+body{
+	width:auto;
+	margin:0 auto;
+	padding-bottom:5px;
+	background:white url("images/cat.jpg") no-repeat right bottom;
+}
+
+li a {
+	color:green;
+}
