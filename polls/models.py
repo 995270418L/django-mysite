@@ -22,5 +22,3 @@ class Choice(models.Model):
     def __str__(self):
         return self.choice_text
 # toString方法 python 是__str__(self) 方法
-
-	
